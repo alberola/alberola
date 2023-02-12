@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [http://alberola.departamentoinformaticajmpp.com](http://alberola.departamentoinformaticajmpp.com)
 * ✉️  You can contact me at [alejandroalberola140400@gmail.com](mailto:alejandroalberola140400@gmail.com)
-* 🧠  I'm learning Laravel
+* 🧠  I'm learning Laravel and React
 
 ### Skills
 
